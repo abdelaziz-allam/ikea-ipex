@@ -11,8 +11,8 @@
 
 ### retail-product-catalog
 
-backend application please refere to README.md to find all details for backend service details
+backend application please refere to **README.md** to find all details for backend service details
 
 ### retail-product-catalog-portal
 
-frontend application please refere to README.md to find all details for frontend portal
+frontend application please refere to **README.md** to find all details for frontend portal
