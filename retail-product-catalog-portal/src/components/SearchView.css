@@ -1,0 +1,51 @@
+
+/* Container */
+.search-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 60%;
+    margin: 50px auto 0;
+}
+
+
+/* Input field */
+.search-input {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #dadada;
+    border-radius: 5px;
+    font-size: 16px;
+    margin-bottom: 10px;
+}
+
+
+/* Search results list */
+.search-results {
+    list-style-type: none;
+    padding: 0;
+}
+
+/* Individual search result item */
+.search-result-item {
+    margin-bottom: 10px;
+}
+
+/* Link styles */
+.search-result-link {
+    text-decoration: none;
+    color: #0051ba;
+}
+
+.search-result-link:hover {
+    text-decoration: underline;
+}
+
+.add-product-button {
+    padding: 10px 20px;
+    background-color: #0051ba;
+    color: white;
+    text-decoration: none;
+    border: none;
+    border-radius: 5px;
+}

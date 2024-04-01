@@ -1,0 +1,27 @@
+
+/* Container */
+.product-container {
+    margin: 20px;
+}
+
+/* Product details */
+.product-details {
+    border: 1px solid #dadada;
+    border-radius: 5px;
+    padding: 20px;
+}
+
+.product-image {
+    width: 100%;
+    max-width: 400px;
+    margin-top: 20px;
+}
+
+.product-heading {
+    margin-bottom: 10px;
+}
+
+.product-price {
+    font-weight: bold;
+    color: #0051ba;
+}
